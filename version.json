@@ -1,6 +1,6 @@
 ﻿{
-  "latest": "2.0.0",
-  "asset_name": "LINED-2.0.0.zip",
-  "sha256": "834b1e75cf57a3bcb10c7f3271ae15932bb35e21accb28f2cb1d954b7a5daa7c",
+  "latest": "2.0.1",
+  "asset_name": "LINED-2.0.1.zip",
+  "sha256": "5675d64ff2e22b946fddfe32ca3737aa0f3c67220eb3e9615a643cfac41aebb4",
   "notes": "Bug fixes"
 }
